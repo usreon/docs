@@ -207,3 +207,6 @@ nutrients과 같음
 3. 파일을 다 돌고 나면(iteration이 끝나면) 엑셀 파일을 쓴다.
 
 ## 결과물
+<img width="1253" alt="excel result" src="https://user-images.githubusercontent.com/79883861/180346911-ea40d23a-8e2f-4581-aca2-6a662f6abb72.png">
+<img width="299" alt="excel path" src="https://user-images.githubusercontent.com/79883861/180346905-bc833ab7-e6f8-4efe-a3a3-cb638125edd8.png">
+
